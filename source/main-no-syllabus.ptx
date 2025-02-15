@@ -11,9 +11,7 @@
     <xi:include href="./frontmatter.ptx" />
 
     <!-- Include chapters -->
-    <xi:include href="./syllabus.ptx" />
-
-    <xi:include href="./course-notes.ptx" />
+    <!-- <xi:include href="./syllabus.ptx" /> -->
 
     <!-- Include Activities -->
     <xi:include href="./activities.ptx" />
