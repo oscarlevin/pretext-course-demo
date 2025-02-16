@@ -25,7 +25,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "2.1",
   "title": "Week 1",
-  "body": " Week 1  This week we covered the following topics:  "
+  "body": " Week 1  Here are some examples of interactive elements that can be included in PreTeXt.  "
 },
 {
   "id": "notes-week-02",
